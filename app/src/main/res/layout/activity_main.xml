@@ -6,6 +6,10 @@
     android:orientation="vertical"
     tools:context="com.elysewarren.inclassassignment09_elysew.MainActivity">
 
+    <TextView
+        android:id="@+id/displayText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
     <EditText
         android:id="@+id/editBox"
         android:layout_width="match_parent"
